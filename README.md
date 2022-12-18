@@ -8,7 +8,7 @@
 | [Recipe_App](https://react-recipe-app-us.netlify.app/) | React, Tailwind, Axios                     | ![Recipe_App](https://github.com/UgurcanSARICI/react_recipe_app/blob/main/recipe.gif?raw=true) |
 | [Random_User](https://react-random-user-us.netlify.app/) | React, Axios,Props,Hooks                     | ![Random User](https://github.com/UgurcanSARICI/react-random-user/blob/main/user.gif?raw=true) |
 | [Language_Cards](https://react-language-cards-us.netlify.app/) | React,Bootstrap                     | ![Language_Cards](https://github.com/UgurcanSARICI/react_language_cards/blob/main/lang.gif?raw=true) |
-| []() | React                     | ![]() |
+| [Recipe_App_Style_Component](http://recipe-style-app.vercel.app/) | React, Styled Component, Axios                     | ![Recipe_App_Style_Component](https://github.com/UgurcanSARICI/recipe-style-app/blob/main/recipe.gif?raw=true) |
 | []() | React                     | ![]() |
 | []() | React                     | ![]() |
 

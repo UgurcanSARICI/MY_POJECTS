@@ -10,6 +10,9 @@
 | [Language_Cards](https://react-language-cards-us.netlify.app/) | React,Bootstrap                     | ![Language_Cards](https://github.com/UgurcanSARICI/react_language_cards/blob/main/lang.gif?raw=true) |
 | [Recipe_App_Style_Component](http://recipe-style-app.vercel.app/) | React, Styled Component, Axios                     | ![Recipe_App_Style_Component](https://github.com/UgurcanSARICI/recipe-style-app/blob/main/recipe.gif?raw=true) |
 | [Task_Tracker](https://react-task-tracker-us.netlify.app/) | React, Tailwind                     | ![Task_Tracker](https://github.com/UgurcanSARICI/react-task-tracker/blob/main/task.gif?raw=true) |
+| [Tour_Places](https://react-tour-places-us.netlify.app/) | React, SCSS                     | ![Tour_Places](https://github.com/UgurcanSARICI/REACT-Tour-Places/blob/main/tour.gif?raw=true) |
 | []() | React                     | ![]() |
 | []() | React                     | ![]() |
+| []() | React                     | ![]() |
+
 

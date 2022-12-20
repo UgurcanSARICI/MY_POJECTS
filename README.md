@@ -12,7 +12,7 @@
 | [Task_Tracker](https://react-task-tracker-us.netlify.app/) | React, Tailwind                     | ![Task_Tracker](https://github.com/UgurcanSARICI/react-task-tracker/blob/main/task.gif?raw=true) |
 | [Tour_Places](https://react-tour-places-us.netlify.app/) | React, SCSS                     | ![Tour_Places](https://github.com/UgurcanSARICI/REACT-Tour-Places/blob/main/tour.gif?raw=true) |
 | [Weather_App](https://react-weather-app-us.netlify.app/) | React                     | ![Weather_App](https://github.com/UgurcanSARICI/REACT-weather-app/blob/main/weather.gif?raw=true) |
-| []() | React                     | ![]() |
+| [Flag_App](https://js-flag-app-us.netlify.app/) | Javascript, Fetch                     | ![Flag_App](https://github.com/UgurcanSARICI/JS_Flag_App/blob/main/flag.gif?raw=true) |
 | []() | React                     | ![]() |
 
 

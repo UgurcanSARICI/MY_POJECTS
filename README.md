@@ -15,7 +15,7 @@
 | [Flag_App](https://js-flag-app-us.netlify.app/) | Javascript, Fetch                     | ![Flag_App](https://github.com/UgurcanSARICI/JS_Flag_App/blob/main/flag.gif?raw=true) |
 | [Js_Digital_Clock](https://js-digital-clock-app-us.netlify.app/) | JS Dom/ setInterval/ getHours/ JS getElementById/ querySelector                     | ![Js_Digital_Clock](https://github.com/UgurcanSARICI/JS-digital-clock/blob/main/clock.gif?raw=true) |
 | [Weather App with JS](https://github.com/UgurcanSARICI/Js-Weather-App) | Javascript/ Get Request(Fetch)/ JS DOM Manipulation | ![Weather App with JS](https://github.com/UgurcanSARICI/Js-Weather-App/blob/main/weather.gif?raw=true) |
-| []() | React                     | ![]() |
+| [Quote_Generator](https://github.com/UgurcanSARICI/REACT_Quote_Generator) | React                     | ![Quote_Generator](https://github.com/UgurcanSARICI/REACT_Quote_Generator/blob/main/quote.gif?raw=true) |
 | []() | React                     | ![]() |
 
 
